@@ -2,7 +2,6 @@ package com.rps.netconf.service;
 
 import com.rps.netconf.client.RestConfClient;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
